@@ -7,12 +7,43 @@ body {
     background-color: transparent;
 }
 
+h1, h5 {
+    font-family: "Comfortaa";
+}
+
+p {
+    font-family: "Quicksand";
+}
+
+.btn-lg {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 170px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: "Comfortaa", serif;
+    border: none;
+ }
+
+ .btn:hover {
+    background-color: orange;
+    color: white;
+  }
+ 
+ 
+
 .card-group {
     margin: 5%;
 }
 
 .card {
     background-color: transparent;
+    border: none;
+}
+
+.card-text {
+    font-family: "Quicksand";
 }
 
 .jumbotron-fluid {
@@ -45,4 +76,12 @@ body {
 
 #home-tab {
     background-color: transparent;
+}
+
+footer {
+    background-color: rgb(36, 36, 36);
+    margin: 5%;
+    color: white;
+    display: inline-block;
+    width: 95%;
 }
