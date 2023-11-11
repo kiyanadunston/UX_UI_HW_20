@@ -103,6 +103,11 @@ p {
     background-color: transparent;
 }
 
+.collage {
+    margin-left: 20%;
+    margin-right: 60%;
+}
+
 footer {
     background-color: #343434;
     margin: 5%;
