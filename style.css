@@ -2,6 +2,24 @@ body {
     background-color: rgb(243,238,231);
 }
 
+#home-tab {
+    color: black;
+    font-family: "Comfortaa";
+}
+
+#profile-tab {
+    color: black;
+    font-family: "Comfortaa";
+}
+
+#home-tab:hover {
+    color: orange;
+}
+
+#profile-tab:hover {
+    color: orange;
+}
+
 .jumbotron {
     margin: 2%;
     background-color: transparent;
