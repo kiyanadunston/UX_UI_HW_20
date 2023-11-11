@@ -51,7 +51,7 @@ p {
   
 
 .card-group {
-    margin: 20%;
+    margin-left: 20%;
 }
 
 .card {
@@ -68,7 +68,7 @@ p {
 }
 
 .jumbotron-fluid {
-    margin: 20%;
+    margin-right: 50%;
 }
 
 .media {
