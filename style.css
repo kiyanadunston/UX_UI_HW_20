@@ -1,9 +1,18 @@
+body {
+    background-color: rgb(243,238,231);
+}
+
 .jumbotron {
     margin: 2%;
+    background-color: transparent;
 }
 
 .card-group {
     margin: 5%;
+}
+
+.card {
+    background-color: transparent;
 }
 
 .jumbotron-fluid {
@@ -22,3 +31,18 @@
     margin: 5%;
 }
 
+.nav nav-tabs {
+    background-color: transparent;
+}
+
+.nav-link {
+    background-color: transparent;
+}
+
+#profile-tab {
+    background-color: transparent;
+}
+
+#home-tab {
+    background-color: transparent;
+}
