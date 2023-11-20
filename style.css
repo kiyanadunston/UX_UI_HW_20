@@ -31,6 +31,7 @@ h1, h5 {
 
 p {
     font-family: "Quicksand";
+    width: 50%;
 }
 
 .btn-lg {
@@ -51,7 +52,8 @@ p {
   
 
 .card-group {
-    margin-left: 20%;
+    margin-left: 30%;
+    display: flex;
 }
 
 .card {
@@ -61,30 +63,38 @@ p {
 
 .card-text {
     font-family: "Quicksand";
+    width: 50%;
 }
 
 .display-4 prototype {
-    margin: 20%;
-}
-
-.jumbotron-fluid {
-    margin-right: 50%;
-}
-
-.media {
-    margin: 20%;
-}
-
-.prototype {
-    margin: 20%;
+    margin: 30%;
+    width: 50%;
 }
 
 .container {
-    margin: 20%;
+    width: 50%;
+    margin: 50%;
+}
+
+.media {
+    margin: 30%;
+}
+
+.media-body {
+    display: flex;
+    align-items: center;
+}
+
+.prototype {
+    margin: 30%;
+}
+
+.container {
+    margin: 30%;
 }
 
 .list-unstyled {
-    margin: 20%;
+    margin: 30%;
 }
 
 .nav nav-tabs {
@@ -106,6 +116,7 @@ p {
 .collage {
     margin-left: 20%;
     margin-right: 60%;
+    display: flex;
 }
 
 footer {
